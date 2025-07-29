@@ -1,0 +1,12 @@
+bo\umss\fcyt\sis\ayudaya\modelo\Donacion.class
+bo\umss\fcyt\sis\ayudaya\modelo\Usuario$TipoUsuario.class
+bo\umss\fcyt\sis\ayudaya\AyudaYa.class
+bo\umss\fcyt\sis\ayudaya\modelo\Donante.class
+bo\umss\fcyt\sis\ayudaya\servicio\SistemaDonaciones.class
+bo\umss\fcyt\sis\ayudaya\modelo\SolicitudDonacion.class
+bo\umss\fcyt\sis\ayudaya\AyudaYaApp.class
+bo\umss\fcyt\sis\ayudaya\modelo\Usuario.class
+bo\umss\fcyt\sis\ayudaya\modelo\Donacion$EstadoDonacion.class
+bo\umss\fcyt\sis\ayudaya\modelo\Institucion$TipoInstitucion.class
+bo\umss\fcyt\sis\ayudaya\modelo\Institucion.class
+bo\umss\fcyt\sis\ayudaya\modelo\SolicitudDonacion$EstadoSolicitud.class
