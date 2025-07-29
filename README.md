@@ -1,6 +1,6 @@
 📘 Sistema AyudaYa - Guía de Ejecución
 📝 Descripción
-AyudaYa es una aplicación de escritorio desarrollada en Java, que permite gestionar donaciones entre personas y organizaciones benéficas.
+AyudaYa es una aplicación de escritorio desarrollada en Java, que permite gestionar donaciones entre personas y instituciones benéficas.
  Su enfoque está en facilitar el registro de donantes, instituciones y donaciones, así como el seguimiento de su estado.
 
 Este sistema fue desarrollado como parte de un trabajo académico para la carrera de Ingeniería de Sistemas.
